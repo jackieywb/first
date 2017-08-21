@@ -1,6 +1,8 @@
 package test;
 
 public class Test {
+	
+	public void play(){}
 
 	public void run(){}
 	
