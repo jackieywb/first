@@ -2,6 +2,8 @@ package test;
 
 public class Test {
 
+	public void run(){}
+	
 	int y=0;
 	
 	public int sum(int a,int b){
